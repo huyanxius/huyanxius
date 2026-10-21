@@ -2,7 +2,7 @@
 
 # Zhengyan Liu · Huyan
 
-**AI-native coder**
+**AI-native product engineer**
 
 Central China Normal University · Wuhan · [huyan.me](https://huyan.me)
 
@@ -13,7 +13,7 @@ Central China Normal University · Wuhan · [huyan.me](https://huyan.me)
 
 <br>
 
-AI-native coder，从事 LLM 应用与 Agent 系统开发，同时负责产品定义：目标用户、流程设计，以及哪些环节交给模型、哪些留给用户。
+AI-native product engineer，从事 LLM 应用与 Agent 系统开发，同时负责产品定义：目标用户、流程设计，以及哪些环节交给模型、哪些留给用户。
 
 主要方向为 Agent 工具调用与工作流编排、可溯源的知识检索、生成模型结合确定性后处理的内容管线，以及面向 Coding Agent 的开发者工具；具备小语言模型预训练与微调经验。华中师范大学中国语言文学专业在读，业余从事小说写作。
 
