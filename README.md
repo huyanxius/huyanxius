@@ -19,20 +19,26 @@ AI-native coder，从事 LLM 应用与 Agent 系统开发，同时负责产品�
 
 #### 代表项目
 
-**[群学致知](https://github.com/huyanxius/qunxue)** · [qunxue.xyz](https://qunxue.xyz)<br>
-社会学研究设计 Agent 平台。研究 Agent 围绕用户提出的社会现象追问对象、机制与证据，调用知识工具检索版本化理论库，输出研究问题、方法与材料计划。<br>
-**角色**　项目第一负责人；平台独立开发；社会学垂类模型训练与微调<br>
-**技术**　FastAPI · React · 基于 OpenAPI 生成的 TypeScript SDK<br>
-**参赛**　挑战杯揭榜挂帅 · 科大讯飞学科垂类大模型榜题（XH-202620），全国赛评选进行中
+**[群学致知](https://github.com/huyanxius/qunxue)** · [qunxue.xyz](https://qunxue.xyz)
 
-**[Windup](https://github.com/1024XEngineer/Windup)** · [windup.xin](https://windup.xin)<br>
-将文字或参考图转化为游戏可用 2D 角色资产的 AI 生产管线：角色母版、分方向动作帧、确定性后处理、浏览器内试玩与 Cocos Creator 一键导入。<br>
-**角色**　四人团队组长；产品定位与核心设计；前端负责人，合入 PR 148 个，全队第一<br>
-**荣誉**　七牛云 1024 XEngineer 训练营最终成果大奖二等奖、最佳产品设计奖、Milestone 1 阶段性第一、最佳人气奖；个人获优秀营员
+社会学研究设计 Agent 平台。研究 Agent 围绕用户提出的社会现象追问对象、机制与证据，调用知识工具检索版本化理论库，输出研究问题、方法与材料计划。
 
-**[Cove](https://github.com/huyanxius/Cove)** · [下载](https://huyanxius.github.io/Cove/)<br>
-Claude Code 与 Codex 的 macOS 原生客户端。在用户自有 CLI 之上提供会话侧栏、支持输入法与图片粘贴的原生输入框，以及可将行内评论回传给 Agent 的 diff 审阅。<br>
-**角色**　独立开发 · SwiftUI + AppKit · 已收录于 awesome-mac
+- **角色**：项目第一负责人；平台独立开发；社会学垂类模型训练与微调
+- **技术**：FastAPI · React · 基于 OpenAPI 生成的 TypeScript SDK
+- **参赛**：挑战杯揭榜挂帅 · 科大讯飞学科垂类大模型榜题（XH-202620），全国赛评选进行中
+
+**[Windup](https://github.com/1024XEngineer/Windup)** · [windup.xin](https://windup.xin)
+
+将文字或参考图转化为游戏可用 2D 角色资产的 AI 生产管线：角色母版、分方向动作帧、确定性后处理、浏览器内试玩与 Cocos Creator 一键导入。
+
+- **角色**：四人团队组长；产品定位与核心设计；前端负责人，合入 PR 148 个，全队第一
+- **荣誉**：七牛云 1024 XEngineer 训练营最终成果大奖二等奖、最佳产品设计奖、Milestone 1 阶段性第一、最佳人气奖；个人获优秀营员
+
+**[Cove](https://github.com/huyanxius/Cove)** · [下载](https://huyanxius.github.io/Cove/)
+
+Claude Code 与 Codex 的 macOS 原生客户端。在用户自有 CLI 之上提供会话侧栏、支持输入法与图片粘贴的原生输入框，以及可将行内评论回传给 Agent 的 diff 审阅。
+
+- **角色**：独立开发 · SwiftUI + AppKit · 已收录于 awesome-mac
 
 #### Agent 技能
 
@@ -69,20 +75,26 @@ My focus areas are agent tool use and workflow orchestration, source-grounded re
 
 ## Selected work
 
-**[Qunxue 群学致知](https://github.com/huyanxius/qunxue)** · [qunxue.xyz](https://qunxue.xyz)<br>
-An agent platform for sociology research design. A research agent probes the user's social phenomenon for its objects, mechanisms and evidence, calls knowledge tools over a versioned theory base, and produces research questions, methods and a data plan.<br>
-**Role** &nbsp; Project lead · sole developer of the platform · domain-model training and fine-tuning<br>
-**Stack** &nbsp; FastAPI · React · TypeScript SDK generated from OpenAPI<br>
-**Competition** &nbsp; Challenge Cup, iFlytek track for domain-specific LLMs (XH-202620); national-round judging in progress
+**[Qunxue 群学致知](https://github.com/huyanxius/qunxue)** · [qunxue.xyz](https://qunxue.xyz)
 
-**[Windup](https://github.com/1024XEngineer/Windup)** · [windup.xin](https://windup.xin)<br>
-An AI production pipeline that turns a text prompt or reference image into game-ready 2D character assets: master sheets, directional animation frames, deterministic post-processing, in-browser playtest, and one-click import into Cocos Creator.<br>
-**Role** &nbsp; Team lead of four · product definition and core design · frontend lead with 148 merged PRs, the most on the team<br>
-**Awards** &nbsp; Qiniu Cloud 1024 XEngineer Program: Second Prize in the final round, Best Product Design Award, first place at the Milestone 1 roadshow, Most Popular Award; Outstanding Participant (individual)
+An agent platform for sociology research design. A research agent probes the user's social phenomenon for its objects, mechanisms and evidence, calls knowledge tools over a versioned theory base, and produces research questions, methods and a data plan.
 
-**[Cove](https://github.com/huyanxius/Cove)** · [Download](https://huyanxius.github.io/Cove/)<br>
-A native macOS client for Claude Code and Codex. It runs on top of the user's own CLI and adds a session sidebar, a native composer with input-method and image-paste support, and diff review with inline comments sent back to the agent.<br>
-**Role** &nbsp; Solo developer · SwiftUI + AppKit · listed in [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+- **Role**: Project lead · sole developer of the platform · domain-model training and fine-tuning
+- **Stack**: FastAPI · React · TypeScript SDK generated from OpenAPI
+- **Competition**: Challenge Cup, iFlytek track for domain-specific LLMs (XH-202620); national-round judging in progress
+
+**[Windup](https://github.com/1024XEngineer/Windup)** · [windup.xin](https://windup.xin)
+
+An AI production pipeline that turns a text prompt or reference image into game-ready 2D character assets: master sheets, directional animation frames, deterministic post-processing, in-browser playtest, and one-click import into Cocos Creator.
+
+- **Role**: Team lead of four · product definition and core design · frontend lead with 148 merged PRs, the most on the team
+- **Awards**: Qiniu Cloud 1024 XEngineer Program: Second Prize in the final round, Best Product Design Award, first place at the Milestone 1 roadshow, Most Popular Award; Outstanding Participant (individual)
+
+**[Cove](https://github.com/huyanxius/Cove)** · [Download](https://huyanxius.github.io/Cove/)
+
+A native macOS client for Claude Code and Codex. It runs on top of the user's own CLI and adds a session sidebar, a native composer with input-method and image-paste support, and diff review with inline comments sent back to the agent.
+
+- **Role**: Solo developer · SwiftUI + AppKit · listed in [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
 ## Agent skills
 
