@@ -28,9 +28,6 @@ def write(draft):
 - **[Logo to Stickers](https://github.com/huyanxius/logo-to-stickers)** — 把 Logo 变成有动作的纸质贴纸，附 15 张成品、原图和提示词。[看案例](https://huyanxius.github.io/logo-to-stickers/)
 - **[Pitchcraft / 路演构造术](https://github.com/huyanxius/pitchcraft)** — 路演技能预览：整理产品证据，衔接图片稿与可编辑 PPTX；需生图和 PPT 工具。[试用步骤](https://github.com/huyanxius/pitchcraft/blob/main/docs/TRY_IT.md)
 - **[MultiPublish](https://github.com/huyanxius/MultiPublish)** — 一次编辑,多平台发布。Chrome 扩展,七牛云 72 小时限时赛作品。
-- **[wander-island](https://github.com/huyanxius/wander-island)** — 叙事驱动的 3D 生态沙盒:在云海碎片上培育一座会呼吸的岛。
-- **[iturner](https://github.com/huyanxius/iturner)** — 给 iPhone 镜像自动翻页的 macOS 工具,为躺着读书的人写的。
-- **[novel-to-script](https://github.com/huyanxius/novel-to-script)** — 把小说转成结构化 YAML 剧本,文学递给工程的一次握手。
 - **[Archive-web](https://github.com/huyanxius/Archive-web)** — LUCERNA,保存阅读人生的数字书房。
 
 <!-- 有公开博客后启用 .github/workflows/blog-posts.yml,近期文章会自动列在这里 -->
