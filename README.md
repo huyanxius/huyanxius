@@ -25,7 +25,7 @@ AI-native product engineer，从事 LLM 应用与 Agent 系统开发，同时负
 
 - **角色**：项目第一负责人；平台独立开发；社会学垂类模型训练与微调
 - **技术**：FastAPI · React · 基于 OpenAPI 生成的 TypeScript SDK
-- **参赛**：挑战杯揭榜挂帅 · 科大讯飞学科垂类大模型榜题（XH-202620），全国赛评选进行中
+- **荣誉**：挑战杯揭榜挂帅 · 科大讯飞学科垂类大模型榜题（XH-202620）全国三等奖
 
 **[Windup](https://github.com/1024XEngineer/Windup)** · [windup.xin](https://windup.xin)
 
@@ -81,7 +81,7 @@ An agent platform for sociology research design. A research agent probes the use
 
 - **Role**: Project lead · sole developer of the platform · domain-model training and fine-tuning
 - **Stack**: FastAPI · React · TypeScript SDK generated from OpenAPI
-- **Competition**: Challenge Cup, iFlytek track for domain-specific LLMs (XH-202620); national-round judging in progress
+- **Awards**: National Third Prize, Challenge Cup iFlytek track for domain-specific LLMs (XH-202620)
 
 **[Windup](https://github.com/1024XEngineer/Windup)** · [windup.xin](https://windup.xin)
 
