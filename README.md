@@ -34,11 +34,11 @@ AI-native product engineer，从事 LLM 应用与 Agent 系统开发，同时负
 - **角色**：四人团队组长；产品定位与核心设计；前端负责人，合入 PR 148 个，全队第一
 - **荣誉**：七牛云 1024 XEngineer 训练营最终成果大奖二等奖、最佳产品设计奖、Milestone 1 阶段性第一、最佳人气奖；个人获优秀营员
 
-**[Cove](https://github.com/huyanxius/Cove)** · [下载](https://huyanxius.github.io/Cove/)
+**[Inkpaw](https://github.com/hackathon-crew/contest-detective)** · [inkpaw.windup.xin](https://inkpaw.windup.xin)
 
-Claude Code 与 Codex 的 macOS 原生客户端。在用户自有 CLI 之上提供会话侧栏、支持输入法与图片粘贴的原生输入框，以及可将行内评论回传给 Agent 的 diff 审阅。
+面向大学生与开发者的比赛推荐与追踪工具：根据用户的兴趣与优势匹配赛事，提供深度检索、原文核验，以及持续盯梢与邮件推送。
 
-- **角色**：独立开发 · SwiftUI + AppKit · 已收录于 awesome-mac
+- **角色**：发起人 · 单场黑客松推广访问 1000+
 
 #### Agent 技能
 
@@ -90,11 +90,11 @@ An AI production pipeline that turns a text prompt or reference image into game-
 - **Role**: Team lead of four · product definition and core design · frontend lead with 148 merged PRs, the most on the team
 - **Awards**: Qiniu Cloud 1024 XEngineer Program: Second Prize in the final round, Best Product Design Award, first place at the Milestone 1 roadshow, Most Popular Award; Outstanding Participant (individual)
 
-**[Cove](https://github.com/huyanxius/Cove)** · [Download](https://huyanxius.github.io/Cove/)
+**[Inkpaw](https://github.com/hackathon-crew/contest-detective)** · [inkpaw.windup.xin](https://inkpaw.windup.xin)
 
-A native macOS client for Claude Code and Codex. It runs on top of the user's own CLI and adds a session sidebar, a native composer with input-method and image-paste support, and diff review with inline comments sent back to the agent.
+A contest recommendation and tracking tool for students and developers. It matches contests to the user's interests and strengths, with deep search, source verification, and continuous monitoring with email alerts.
 
-- **Role**: Solo developer · SwiftUI + AppKit · listed in [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+- **Role**: Founder · 1,000+ visits from a single hackathon campaign
 
 ## Agent skills
 
